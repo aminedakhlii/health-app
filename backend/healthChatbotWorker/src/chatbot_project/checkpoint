@@ -1,0 +1,2 @@
+model_checkpoint_path: "src/chatbot_project/model.tflearn"
+all_model_checkpoint_paths: "src/chatbot_project/model.tflearn"

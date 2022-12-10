@@ -1,0 +1,78 @@
+
+{"health_data": [
+
+
+
+        {"tag": "rapid heartbeat",
+         "patterns": ["Why do I feel restless?", "why is my heart pounding so fast", "what is my heartbeart irregular", "why is my heart skippping a beat", 
+         "why is my heart rate so high","why is my heart beating so fast for no reason", "why is my heart racing", "why do I feal anxious for no reason"],
+         "responses": ["you have a high resting heart rate", "I will check your records for any indication of this"],
+         "context_set": ""
+        },
+
+
+        {"tag": "Irregular sleep patterns",
+         "patterns": ["why can't I sleep", "why is my sleep quality so bad", "why do I keep waking up from my sleep", "why am I having trouble sleeping"],
+         "responses": ["You have an irregular sleeping pattern", "I will check your records for any indication of this"],
+         "context_set": ""
+        },
+
+
+        {"tag": "shortness of breath",
+         "patterns": ["why is my breathing irregular", "why do I have shortness of breath", "why am i breating so fast", "why am i breathing manually", 
+         "why am I breathing so heavy"],
+         "responses": ["you have an elevated breathing rate"],
+         "context_set": ""
+        },
+
+
+        {"tag": "rapid weight decrease",
+         "patterns": ["why am I losing weight so fast", "why am i losing weight all of a sudden"],
+         "responses": ["you are rapidly losing weight"],
+         "context_set": ""
+        },
+        {"tag": "increased food intake",
+         "patterns": ["why am I eating more", "why am I always hungry", "why am I eating so much lately", "why am I eating more byt losing weight", "why am i eating so much more",
+          "why am I eating so much and not getting full"],
+         "responses": ["you are eating so much food"],
+         "context_set": ""
+        },
+        {"tag": "Increased body temperature",
+         "patterns": ["why do I feel so hot", "why do I sweat so much", "why am i sweating for no reason", "why do I suddenly get hot for no reason"],
+         "responses": ["you have elevated body temeperature"],
+         "context_set": ""
+        },
+
+        {"tag": "increased blood pressure",
+         "patterns": ["why do I feel a tremor in my hands", "my hands are shaking for no reason", "I have high blood pressure", 
+         "why is my blood pressure high", "why am i shaking", "why are my hands shaking"],
+         "responses": ["you have increased blood pressure"],
+         "context_set": ""
+        },
+        {"tag": "fatigue",
+         "patterns": ["I feel tired for no reason", "why do I feel like my mmuscles are weak", "why do I feel fatigued for no reason", 
+         "why do I feel dizzy", "I feel dizzy all of a sudden"],
+         "responses": ["you are fatigued"],
+         "context_set": ""
+        },
+        {"tag": "brittle hair and skin",
+         "patterns": ["why is my hair falling", "why is my skin warm", "my skin is moist for no reason", "why is my hair brittle", 
+         "why are my nails breaking", "why are my nails weak"],
+         "responses": ["you have brittle hair and skin"],
+         "context_set": ""
+        },
+        {"tag": "dry eyes",
+         "patterns": ["why do my eyes feel dry", "my eyes are swelling for no reason", "why do my eyes burn", 
+         "i have eye discomfort for no reason", "why are my eyes watery", "why are my eyes itchy"],
+         "responses": ["you have dry eyes"],
+         "context_set": ""
+        },
+        {"tag": "mental fatigue",
+         "patterns": ["why do I feel sad for no reason", "why do i feel so tired", "why do I feel drained", "why do i feel sluggish", 
+                "why do I feel sleepy all the time", "why can't I focus", "why am I moody", "why am i not motivated to do anything", "why do I feel unmotivated", 
+                "I feel lazy for no reason"],
+         "responses": ["you have dry eyes"],
+         "context_set": ""
+        }
+   ]
+}
